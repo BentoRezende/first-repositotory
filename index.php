@@ -40,17 +40,3 @@
 
 </body>
 </html>
-
-
-<!--<form action="./src/Usuarios.php" method="get">
-    <label for = "nome1" > nome1 </label>
-    <input type="text" name="name1" id="">
-    <br>
-    <label for = "nome2" > nome2 </label>
-    <input type="text" name="name2" id="">
-    <br>
-    <label for = "nome3" > nome3 </label>
-    <input type="text" name="name3" id="">
-    <br>
-    <input type="submit" value="enviar">
-    </form>
