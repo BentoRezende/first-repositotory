@@ -1,0 +1,10 @@
+{
+    "name": "bento/first-repositotory",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "bento\\FirstRepositotory\\": "src/"
+        }
+    },
+    "require": {}
+}
